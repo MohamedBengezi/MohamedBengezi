@@ -4,9 +4,8 @@
 
 
 - 🔭 I’m currently working on ...
-  Uplift: A React Native social media application for weightlifting and fitness enthusiasts
+  A chatbot for fb messenger...
 - 🌱 I’m currently learning ...
-  Upgrading my React knowledge
-  Learning C & C++
+  More about DevOps to get Microsoft-certified through AZ-204 and AZ-900
   Keeping my Java & Python knowledge up-to-date
 
